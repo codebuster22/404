@@ -1,0 +1,4 @@
+dn404/=lib/dn404/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+solady/=lib/dn404/lib/solady/src/
